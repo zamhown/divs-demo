@@ -1,0 +1,17 @@
+.App-header {
+  background-color: #cccccc;
+  height: 70px;
+  padding: 10px;
+}
+
+#logo{
+  margin: 0px;
+}
+
+.App-header>*{
+  line-height: 50px;
+}
+
+.red-item{
+  background-color: red;
+}
